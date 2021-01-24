@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Memoery Game</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .main {
+            width: 484px;
+            margin: 30px auto;
+            background-color: #d6d0d0;
+            overflow: hidden;
+            border-radius: 5px;
+            padding: 10px;
+            font-family: tahoma;
+        }
+
+        div {
+            border-radius: 5px;
+            /*width: 23%;*/
+            height: 95px;
+            /*background-color: #0ca01a;*/
+            background: url(https://i.ibb.co/MhmWJYX/Moon.gif);
+            float: left;
+            margin: 2%;
+            cursor: pointer;
+            transition: background-color .1s ease-in-out;
+        }
+
+        div:hover {
+            background-color: #066910;
+        }
+
+        img {
+            color: #fff;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 100px;
+            margin: 0;
+            opacity: 0;
+            transition: opacity .5s ease-in-out;
+        }
+
+    </style>
+</head>
+
+<body>
+    <h2 style="text-align: center">Memory Game</h2>
+    <hr>
+    <section class="main"></section>
+
+
+    <script src="script.js"></script>
+
+
+
+</body>
+
+</html>
