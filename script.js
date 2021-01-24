@@ -4,11 +4,11 @@
      img;
 
 
- var audioRight = new Audio('right.wav');
- var audioWrong = new Audio('wrong.wav');
+ var audioRight = new Audio('assets/right.wav');
+ var audioWrong = new Audio('assets/wrong.wav');
 
 
- var rArray = ['1.gif', '2.gif', '3.gif', '4.gif', '5.gif', '6.gif', '1.gif', '2.gif', '3.gif', '4.gif', '5.gif', '6.gif'];
+ var rArray = ['assets/1.gif', 'assets/2.gif', 'assets/3.gif', 'assets/4.gif', 'assets/5.gif', 'assets/6.gif', 'assets/1.gif', 'assets/2.gif', 'assets/3.gif', 'assets/4.gif', 'assets/5.gif', 'assets/6.gif'];
 
  function lettersFunction() {
      for (var i = 0; i <= 11; i = i + 1) {
