@@ -16,9 +16,7 @@ Simple memory game using JavaScript
 
 ## Follow me
 
-   
-   
-        <a href="https://www.linkedin.com/mwlite/in/moamahfouz">
+  <a href="https://www.linkedin.com/mwlite/in/moamahfouz">
             <b> Linkedin »</b>
         </a>
    
