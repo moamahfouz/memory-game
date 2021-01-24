@@ -15,7 +15,6 @@ Simple memory game using JavaScript
   - [x] It teaches how to manipluate HTML DOM.
 
 
-<div align="center">
     <h2>Follow me</h2>
       
         <a href="https://www.linkedin.com/mwlite/in/moamahfouz">
@@ -23,4 +22,3 @@ Simple memory game using JavaScript
         </a>
    
 
-</div>
