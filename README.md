@@ -14,9 +14,10 @@ Simple memory game using JavaScript
   - [x] It enabled me to tearn JavaScript by examples.
   - [x] It teaches how to manipluate HTML DOM.
 
+## Follow me
 
-    <h2>Follow me</h2>
-      
+   
+   
         <a href="https://www.linkedin.com/mwlite/in/moamahfouz">
             <b> Linkedin »</b>
         </a>
