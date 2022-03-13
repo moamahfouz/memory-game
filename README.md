@@ -1,12 +1,12 @@
 # memory-game
 Simple memory game using JavaScript 
 
-<a href="https://youtu.be/1DWFIqrqrPk">
+<a href="https://www.youtube.com/watch?v=8JDiaYIgqTk">
     Watch tutorial
 </a>
 
 <p align="center">
-    <a href="https://youtu.be/1DWFIqrqrPk">
+    <a href="https://www.youtube.com/watch?v=8JDiaYIgqTk">
       <img src="https://raw.githubusercontent.com/moamahfouz/memory-game/main/assets/memory-game.png">
     </a>
 </p>
